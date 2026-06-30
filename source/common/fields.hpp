@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 #include <unordered_map>
-
+//各种枚举常量
 namespace bitrpc {
 #define KEY_METHOD "method"       // 方法名称
 #define KEY_PARAMS "parameters"   // 方法参数
